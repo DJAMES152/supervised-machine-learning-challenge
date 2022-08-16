@@ -1,3 +1,19 @@
+# Conclusion
+
+--Hypothesis--
+Judging from the models, the Logistic Regression model will perform better for the dataset.  As far as classification problems go, both the Random Forest and the Logistic Regression Models are suitable. But as far as there being over 80 variables to consider, the Logistic Model will prevail superior over the Random Forest model. We would use the Random Forest model for classification problems that are more much more simple.  
+
+--Evaluation--
+The Random Forest model performed better on test data without it being scaled.
+
+--Results--
+Once the data was scaled, the Logistics Regression model prevailed at becoming the better classifier with  an accuracy score of .66 whereas the Random Forest model decreased from .64 all the way down to .5.  
+
+--Conclusion--
+Although we came up with a .66 accuracy rate, I would still be skeptical on using either model for true value purposes. The inaccuracy is still way too high to trust as far as percentages go.
+
+
+
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
